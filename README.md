@@ -1,7 +1,6 @@
 # Colemak Tutor
-A game to teach Colemak and its variants.
 
-# What is the game?
+## What is the game?
 The overall goal of this game is to be a simple but enjoyable way to learn and practice the Colemak layout (and its variants).
 
 Some things that I want to accomplish with this project:
